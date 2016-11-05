@@ -37,3 +37,7 @@ npm run build
 **Application will be build into `dist/Coffeebull-darwin-x64/`**
 
 **Just copy/paste `Coffeebull.app` into `/Applications and enjoy**
+
+### Thx
+
+Icon comes from [Gloria Kang's dribble](https://dribbble.com/young_kang) with [Retina Caffeine Menubar Icons](https://dribbble.com/shots/2049777-Retina-Caffeine-Menubar-Icons)
